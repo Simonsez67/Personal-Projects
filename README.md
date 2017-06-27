@@ -1,2 +1,2 @@
 # Personal-Projects
-E Laerning Projects on GitHub
+E Learning Projects on GitHub
